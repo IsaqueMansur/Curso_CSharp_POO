@@ -1,0 +1,8 @@
+C:\Cursos\C#_POO\StaticEThis\StaticEThis\bin\Debug\StaticEThis.exe.config
+C:\Cursos\C#_POO\StaticEThis\StaticEThis\bin\Debug\StaticEThis.exe
+C:\Cursos\C#_POO\StaticEThis\StaticEThis\bin\Debug\StaticEThis.pdb
+C:\Cursos\C#_POO\StaticEThis\StaticEThis\obj\Debug\StaticEThis.csproj.AssemblyReference.cache
+C:\Cursos\C#_POO\StaticEThis\StaticEThis\obj\Debug\StaticEThis.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_POO\StaticEThis\StaticEThis\obj\Debug\StaticEThis.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_POO\StaticEThis\StaticEThis\obj\Debug\StaticEThis.exe
+C:\Cursos\C#_POO\StaticEThis\StaticEThis\obj\Debug\StaticEThis.pdb
