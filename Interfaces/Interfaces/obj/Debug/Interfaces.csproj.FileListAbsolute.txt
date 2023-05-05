@@ -1,0 +1,8 @@
+C:\Cursos\C#_POO\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+C:\Cursos\C#_POO\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Cursos\C#_POO\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Cursos\C#_POO\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Cursos\C#_POO\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_POO\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_POO\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Cursos\C#_POO\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
