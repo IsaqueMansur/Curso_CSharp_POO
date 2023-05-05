@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DFC70502-7ABC-464A-BB74-14DE164E0DF6}</ProjectGuid>
+    <ProjectGuid>{DCEDCC79-D6CC-48B8-A9E8-CF00DC7551B4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AcessoAsClasses</RootNamespace>
-    <AssemblyName>AcessoAsClasses</AssemblyName>
+    <RootNamespace>Metodos</RootNamespace>
+    <AssemblyName>Metodos</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CarroExterno.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
