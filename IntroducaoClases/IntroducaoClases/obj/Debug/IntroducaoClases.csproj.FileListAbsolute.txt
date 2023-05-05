@@ -1,0 +1,8 @@
+C:\Cursos\C#_POO\IntroducaoClases\IntroducaoClases\bin\Debug\IntroducaoClases.exe.config
+C:\Cursos\C#_POO\IntroducaoClases\IntroducaoClases\bin\Debug\IntroducaoClases.exe
+C:\Cursos\C#_POO\IntroducaoClases\IntroducaoClases\bin\Debug\IntroducaoClases.pdb
+C:\Cursos\C#_POO\IntroducaoClases\IntroducaoClases\obj\Debug\IntroducaoClases.csproj.AssemblyReference.cache
+C:\Cursos\C#_POO\IntroducaoClases\IntroducaoClases\obj\Debug\IntroducaoClases.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_POO\IntroducaoClases\IntroducaoClases\obj\Debug\IntroducaoClases.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_POO\IntroducaoClases\IntroducaoClases\obj\Debug\IntroducaoClases.exe
+C:\Cursos\C#_POO\IntroducaoClases\IntroducaoClases\obj\Debug\IntroducaoClases.pdb
