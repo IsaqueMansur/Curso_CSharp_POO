@@ -1,0 +1,8 @@
+C:\Cursos\C#_POO\Projeto-CadastroUsuarios\Projeto-CadastroUsuarios\bin\Debug\Projeto-CadastroUsuarios.exe.config
+C:\Cursos\C#_POO\Projeto-CadastroUsuarios\Projeto-CadastroUsuarios\bin\Debug\Projeto-CadastroUsuarios.exe
+C:\Cursos\C#_POO\Projeto-CadastroUsuarios\Projeto-CadastroUsuarios\bin\Debug\Projeto-CadastroUsuarios.pdb
+C:\Cursos\C#_POO\Projeto-CadastroUsuarios\Projeto-CadastroUsuarios\obj\Debug\Projeto-CadastroUsuarios.csproj.AssemblyReference.cache
+C:\Cursos\C#_POO\Projeto-CadastroUsuarios\Projeto-CadastroUsuarios\obj\Debug\Projeto-CadastroUsuarios.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_POO\Projeto-CadastroUsuarios\Projeto-CadastroUsuarios\obj\Debug\Projeto-CadastroUsuarios.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_POO\Projeto-CadastroUsuarios\Projeto-CadastroUsuarios\obj\Debug\Projeto-CadastroUsuarios.exe
+C:\Cursos\C#_POO\Projeto-CadastroUsuarios\Projeto-CadastroUsuarios\obj\Debug\Projeto-CadastroUsuarios.pdb
