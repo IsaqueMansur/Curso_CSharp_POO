@@ -1,0 +1,8 @@
+C:\Cursos\C#_POO\SerializaçãoEDesserizalização\SerializaçãoEDesserizalização\bin\Debug\SerializaçãoEDesserizalização.exe.config
+C:\Cursos\C#_POO\SerializaçãoEDesserizalização\SerializaçãoEDesserizalização\bin\Debug\SerializaçãoEDesserizalização.exe
+C:\Cursos\C#_POO\SerializaçãoEDesserizalização\SerializaçãoEDesserizalização\bin\Debug\SerializaçãoEDesserizalização.pdb
+C:\Cursos\C#_POO\SerializaçãoEDesserizalização\SerializaçãoEDesserizalização\obj\Debug\SerializaçãoEDesserizalização.csproj.AssemblyReference.cache
+C:\Cursos\C#_POO\SerializaçãoEDesserizalização\SerializaçãoEDesserizalização\obj\Debug\SerializaçãoEDesserizalização.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_POO\SerializaçãoEDesserizalização\SerializaçãoEDesserizalização\obj\Debug\SerializaçãoEDesserizalização.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_POO\SerializaçãoEDesserizalização\SerializaçãoEDesserizalização\obj\Debug\SerializaçãoEDesserizalização.exe
+C:\Cursos\C#_POO\SerializaçãoEDesserizalização\SerializaçãoEDesserizalização\obj\Debug\SerializaçãoEDesserizalização.pdb

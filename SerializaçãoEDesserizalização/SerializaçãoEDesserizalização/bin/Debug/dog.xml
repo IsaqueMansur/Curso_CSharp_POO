@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Dog xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Serializa%C3%A7%C3%A3oEDesserizaliza%C3%A7%C3%A3o">
+  <color>Black</color>
+  <name>Bob</name>
+</Dog>
