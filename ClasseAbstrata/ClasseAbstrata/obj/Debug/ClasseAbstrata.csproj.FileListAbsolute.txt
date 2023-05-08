@@ -1,0 +1,8 @@
+C:\Cursos\C#_POO\ClasseAbstrata\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe.config
+C:\Cursos\C#_POO\ClasseAbstrata\ClasseAbstrata\bin\Debug\ClasseAbstrata.exe
+C:\Cursos\C#_POO\ClasseAbstrata\ClasseAbstrata\bin\Debug\ClasseAbstrata.pdb
+C:\Cursos\C#_POO\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.csproj.AssemblyReference.cache
+C:\Cursos\C#_POO\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_POO\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_POO\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.exe
+C:\Cursos\C#_POO\ClasseAbstrata\ClasseAbstrata\obj\Debug\ClasseAbstrata.pdb
