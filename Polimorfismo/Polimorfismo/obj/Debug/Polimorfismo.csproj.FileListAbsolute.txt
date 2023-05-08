@@ -1,0 +1,8 @@
+C:\Cursos\C#_POO\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Cursos\C#_POO\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Cursos\C#_POO\Polimorfismo\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Cursos\C#_POO\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.AssemblyReference.cache
+C:\Cursos\C#_POO\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_POO\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_POO\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Cursos\C#_POO\Polimorfismo\Polimorfismo\obj\Debug\Polimorfismo.pdb

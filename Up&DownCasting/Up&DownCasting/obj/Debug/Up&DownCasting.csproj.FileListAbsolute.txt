@@ -1,0 +1,8 @@
+C:\Cursos\C#_POO\Up&DownCasting\Up&DownCasting\bin\Debug\Up&DownCasting.exe.config
+C:\Cursos\C#_POO\Up&DownCasting\Up&DownCasting\bin\Debug\Up&DownCasting.exe
+C:\Cursos\C#_POO\Up&DownCasting\Up&DownCasting\bin\Debug\Up&DownCasting.pdb
+C:\Cursos\C#_POO\Up&DownCasting\Up&DownCasting\obj\Debug\Up&DownCasting.csproj.AssemblyReference.cache
+C:\Cursos\C#_POO\Up&DownCasting\Up&DownCasting\obj\Debug\Up&DownCasting.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_POO\Up&DownCasting\Up&DownCasting\obj\Debug\Up&DownCasting.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_POO\Up&DownCasting\Up&DownCasting\obj\Debug\Up&DownCasting.exe
+C:\Cursos\C#_POO\Up&DownCasting\Up&DownCasting\obj\Debug\Up&DownCasting.pdb
