@@ -1,0 +1,8 @@
+C:\Cursos\C#_POO\Eventos\Eventos\bin\Debug\Eventos.exe.config
+C:\Cursos\C#_POO\Eventos\Eventos\bin\Debug\Eventos.exe
+C:\Cursos\C#_POO\Eventos\Eventos\bin\Debug\Eventos.pdb
+C:\Cursos\C#_POO\Eventos\Eventos\obj\Debug\Eventos.csproj.AssemblyReference.cache
+C:\Cursos\C#_POO\Eventos\Eventos\obj\Debug\Eventos.csproj.SuggestedBindingRedirects.cache
+C:\Cursos\C#_POO\Eventos\Eventos\obj\Debug\Eventos.csproj.CoreCompileInputs.cache
+C:\Cursos\C#_POO\Eventos\Eventos\obj\Debug\Eventos.exe
+C:\Cursos\C#_POO\Eventos\Eventos\obj\Debug\Eventos.pdb
