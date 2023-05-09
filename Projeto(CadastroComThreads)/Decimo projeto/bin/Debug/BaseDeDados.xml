@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BaseDeDados xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Decimo_projeto">
+  <listaDePessoas>
+    <CadastroPessoa>
+      <dataDeNascimento>2000-12-21T00:00:00</dataDeNascimento>
+      <nome>Maria</nome>
+      <nomeDaRua>Rua das Alamedas</nomeDaRua>
+      <numeroDaCasa>12</numeroDaCasa>
+      <numeroDoDocumento>123</numeroDoDocumento>
+    </CadastroPessoa>
+    <CadastroPessoa>
+      <dataDeNascimento>1999-11-23T00:00:00</dataDeNascimento>
+      <nome>Joao</nome>
+      <nomeDaRua>Rua das Paixoes</nomeDaRua>
+      <numeroDaCasa>21</numeroDaCasa>
+      <numeroDoDocumento>12</numeroDoDocumento>
+    </CadastroPessoa>
+  </listaDePessoas>
+</BaseDeDados>
